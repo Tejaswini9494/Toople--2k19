@@ -1,0 +1,1 @@
+<div class="stars starrr" data-rating="0"></div><!--<div class="in_star"><img src="images/star.png" width="20" height="20" /> <img src="images/star.png" width="20" height="20" /> <img src="images/star.png" width="20" height="20" /> <img src="images/star.png" width="20" height="20" /> <img src="images/star.png" width="20" height="20" /></div> <br class="clear" /> -->

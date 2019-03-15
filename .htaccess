@@ -1,0 +1,5 @@
+Options All -Indexes
+RewriteEngine On
+RewriteRule ^myEportfolio/([^/\.]+)/([^/\.]+)/?$ myEportfolio.php?uid=$1 [L]
+
+
